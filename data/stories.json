@@ -1,0 +1,113 @@
+[
+  {
+    "id": "parliament-anniversary",
+    "category": "Civic Desk",
+    "location": "Nairobi / National",
+    "title": "One year since parliament was stormed. What changed? What didn't.",
+    "deck": "On June 25, 2024, a generation Kenya's political class had written off as apolitical walked through the gates of parliament and changed the terms of civic participation.",
+    "readMinutes": 12,
+    "publishedAt": "2025-06-25T06:00:00+03:00",
+    "image": "images/protest-public-voice-bw.jpg",
+    "alt": "Young demonstrators raising a megaphone and placard during a public protest",
+    "href": "blog-single.html?story=parliament-anniversary",
+    "tags": ["Gen Z", "Finance Bill", "Parliament", "Accountability"],
+    "body": [
+      "On June 25, 2024, a generation Kenya's political class had written off as apolitical walked through the gates of parliament and changed the terms of what civic participation could look like.",
+      "Forty-one people were shot dead by police. The Finance Bill 2024 was withdrawn within 48 hours. President Ruto fired his cabinet two weeks later.",
+      "A year on, the Gen Z MPs who rode the wave into office are navigating committee assignments, the independents who contested on protest platforms are being absorbed into party structures, and the families of the dead are still waiting for a government apology that has not come.",
+      "Tutawaona, they said. We are still watching."
+    ]
+  },
+  {
+    "id": "gikomba-basket-week-22",
+    "category": "Bazaar",
+    "location": "Nairobi / Mombasa / Kisumu / Nakuru",
+    "title": "The number that tracks Kenya's real economy: the Gikomba basket, week 22.",
+    "deck": "Week 22 of our weekly market price index, tracking the food basket ordinary Kenyan households actually buy.",
+    "readMinutes": 5,
+    "publishedAt": "2025-05-31T06:00:00+03:00",
+    "image": "images/market-economy-bw.jpg",
+    "alt": "Market traders handling grain sacks in a busy open market",
+    "href": "blog-single.html?story=gikomba-basket-week-22",
+    "tags": ["Market prices", "Unga", "Cost of living", "Weekly"],
+    "body": [
+      "Week 22 of our weekly market price index. The 2kg Jogoo unga packet held at KSh 228 in Gikomba and KSh 241 at Kongowea in Mombasa, a 5.7% gap that reflects transport costs the official CPI smooths over.",
+      "Sukari nusu kilo dropped KSh 4 from last week at most Nairobi markets following a release from the Strategic Grain Reserve. Cooking gas, 6kg cylinder: still KSh 1,140 in Nairobi and KSh 1,220 in Kisumu.",
+      "Tomatoes from Meru are down 12% after a good harvest in Tharaka Nithi. The traders know the economy better than any report that comes out of Treasury. We just write down what they already know."
+    ]
+  },
+  {
+    "id": "mathare-flood-map",
+    "category": "Climate",
+    "location": "Mathare, Nairobi",
+    "title": "Mathare's flood map is not the government's flood map. We built our own.",
+    "deck": "Cinq mapped 14 flood hotspots in Mathare using satellite imagery, resident-reported coordinates, and community flood diaries kept since 2019.",
+    "readMinutes": 9,
+    "publishedAt": "2025-05-18T07:30:00+03:00",
+    "image": "images/flood-boat-village-bw.jpg",
+    "alt": "A man steering a wooden boat through flood water",
+    "href": "blog-single.html?story=mathare-flood-map",
+    "tags": ["Floods", "Mathare", "Data map", "Climate"],
+    "body": [
+      "Every major rain season, Mathare Valley floods. Every year, the Kenya Meteorological Department issues a warning. Every year, Nairobi City County says drainage is being addressed.",
+      "Cinq mapped 14 flood hotspots in Mathare using satellite imagery, resident-reported coordinates, and community flood diaries kept by the Mathare Environmental Justice Programme since 2019.",
+      "The government's drainage project, announced in 2022 with a KSh 440 million budget, covers three of them. The other eleven are still waiting. Maisha ni ngori pale kwa watu wa Mathare."
+    ]
+  },
+  {
+    "id": "sha-patients-at-the-gate",
+    "category": "Health",
+    "location": "Nairobi / Kisumu / Meru",
+    "title": "SHA promised universal cover. Here are five patients it left at the gate.",
+    "deck": "Five patient stories followed for three months show the distance between the policy document and the hospital desk.",
+    "readMinutes": 10,
+    "publishedAt": "2025-05-14T09:00:00+03:00",
+    "image": "images/african-woman-portrait-bw.jpg",
+    "alt": "Black-and-white portrait of a young African woman",
+    "href": "blog-single.html?story=sha-patients-at-the-gate",
+    "tags": ["SHA", "Health", "Patient rights", "Investigation"],
+    "body": [
+      "Maureen Auma registered for SHA in December 2023. She paid her contributions every month through M-Pesa.",
+      "In March 2025, she presented at Mama Lucy Kibaki Hospital in Nairobi for a scheduled caesarean section. The system returned an error. The hospital asked for a KSh 18,000 deposit. She did not have it.",
+      "Her daughter was delivered two hours later, after a neighbour sent money via Fuliza. Maureen is one of five patients whose SHA stories Cinq followed for three months. None of them received what the policy document said they were entitled to. The SHA registrar did not respond to our requests for comment."
+    ]
+  },
+  {
+    "id": "starehe-case-under-investigation",
+    "category": "Justice",
+    "location": "Nairobi / National",
+    "title": "Her name was Starehe. She was 24. Her case is still under investigation.",
+    "deck": "Sixteen months after January 2024, Cinq checked every femicide case reported to police in the first 31 days of the year.",
+    "readMinutes": 11,
+    "publishedAt": "2025-05-10T08:00:00+03:00",
+    "image": "images/black-hands-story-bw.jpg",
+    "alt": "Black-and-white close-up of hands held together",
+    "href": "blog-single.html?story=starehe-case-under-investigation",
+    "tags": ["Femicide", "Justice", "#EndFemicide", "Court watch"],
+    "body": [
+      "In the first three weeks of January 2024, 21 women were killed in Kenya. The bodies of several were found in Mukuru kwa Njenga, a neighbourhood in Nairobi's Embakasi East constituency.",
+      "The police described the deaths as ongoing investigations. The #EndFemicide movement filled the streets of Nairobi, Mombasa, and Kisumu. The Director of Public Prosecutions promised action.",
+      "Sixteen months later, Cinq checked the status of every case that was reported to police between January 1 and January 31, 2024. Three have reached trial. Eleven remain at the inquiry stage. Seven have been classified as concluded without a prosecution.",
+      "Her name was Starehe Njeri. She was 24 years old. Her case is file reference OB 17/1/2024. It is still under investigation."
+    ]
+  },
+  {
+    "id": "mara-ranger-economy",
+    "category": "Environment",
+    "location": "Narok County",
+    "title": "The Mara ranger earns KSh 12,000 a month. The lodge next door charges USD 1,200 a night.",
+    "deck": "A conservation economy investigation into ranger pay, bed-night levies, community households, and the money behind the brochure.",
+    "readMinutes": 13,
+    "publishedAt": "2025-05-02T07:00:00+03:00",
+    "image": "images/kenya-elephant-conservation-bw.jpg",
+    "alt": "Black-and-white photograph of an elephant in open landscape",
+    "href": "blog-single.html?story=mara-ranger-economy",
+    "tags": ["Mara", "Conservation economy", "Land rights", "Investigation"],
+    "body": [
+      "Parkland Konchellah has been a ranger in the Maasai Mara National Reserve for eleven years. He wakes at 4:30am, patrols 18 kilometres daily, and earns KSh 12,000 a month, just under USD 93.",
+      "The camp adjacent to his patrol sector charges USD 1,200 per person per night and is booked out until September 2026. The camp's community contribution, as required under the conservancy agreement, is USD 27 per bed-night.",
+      "Cinq obtained the conservancy revenue distribution records for 2023. Of the USD 4.1 million collected, KSh 38 million reached community households. The rest stayed in the conservation management account.",
+      "Parkland says he has never seen the breakdown. He was told it is confidential. Hakuna mchezo. Tutafuatilia."
+    ]
+  }
+]
